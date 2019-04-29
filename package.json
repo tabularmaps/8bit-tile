@@ -1,0 +1,24 @@
+{
+  "name": "8bit-tile",
+  "version": "1.0.0",
+  "description": "vector tile data for the 8bit array",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tabularmaps/8bit-tile.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/tabularmaps/8bit-tile/issues"
+  },
+  "homepage": "https://github.com/tabularmaps/8bit-tile#readme",
+  "dependencies": {
+    "csv-parse": "^4.4.1",
+    "i18n-iso-countries": "^3.7.8"
+  }
+}
