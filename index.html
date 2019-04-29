@@ -16,7 +16,7 @@ body { margin: 0; top: 0; bottom: 0; width: 100%; }
 <script>
 map = new mapboxgl.Map({
   container: 'map', 
-  attributionControl: true, hash: true, maxZoom: 2,
+  attributionControl: true, hash: true, maxZoom: 4,
   style: {
     version: 8,
     sources: {
@@ -27,6 +27,7 @@ map = new mapboxgl.Map({
         maxzoom: 0
       }
     },
+    glyphs: 'https://vectortiles.xyz/fonts/{fontstack}/{range}.pbf',
     layers: [
       {
         id: 'bnda',
@@ -35,6 +36,27 @@ map = new mapboxgl.Map({
         'source-layer': 'bnda',
         paint: {
           'fill-color': ['rgb', 250, 250, 250]
+        }
+      },
+      {
+        id: 'text',
+        type: 'symbol',
+        source: 'v',
+        'source-layer': 'bnda',
+        layout: {
+          'text-field': [
+            'step',
+            ['zoom'],
+            1,
+            ['get', 'iso2cd'],
+            2,
+            ['get', 'iso3cd'],
+            3,
+            ['get', 'name']
+          ]
+          'text-font': ['sans'],
+        },
+        paint: {
         }
       }
     ]
