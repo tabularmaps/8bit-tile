@@ -55,6 +55,13 @@ map = new mapboxgl.Map({
             ['get', 'name']
           ],
           'text-font': ['sans'],
+          'text-size': [
+            'step',
+            ['zoom'],
+            9,
+            1,
+            14
+          ]
         },
         paint: {
         }
