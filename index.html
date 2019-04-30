@@ -28,6 +28,10 @@ map = new mapboxgl.Map({
       }
     },
     glyphs: 'https://vectortiles.xyz/fonts/{fontstack}/{range}.pbf',
+    transition: {
+      duration: 0,
+      delay: 0
+    },
     layers: [
       {
         id: 'bnda',
