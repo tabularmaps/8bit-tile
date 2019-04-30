@@ -2353,6 +2353,41 @@
         "coordinates": [
           [
             [
+              -54.000000000000014,
+              47.422140992876116
+            ],
+            [
+              -54.000000000000014,
+              37.49578069305971
+            ],
+            [
+              -40.50000000000003,
+              37.49578069305971
+            ],
+            [
+              -40.50000000000003,
+              47.422140992876116
+            ],
+            [
+              -54.000000000000014,
+              47.422140992876116
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso2cd": "sm",
+        "iso3cd": "SMR",
+        "name": "San Marino"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               -40.5,
               47.422140992876116
             ],
@@ -2866,9 +2901,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "va",
-        "iso3cd": "VAT",
-        "name": "Holy See (Vatican City State)"
+        "iso2cd": "it",
+        "iso3cd": "ITA",
+        "name": "Italy"
       }
     },
     {
@@ -2901,9 +2936,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "sm",
-        "iso3cd": "SMR",
-        "name": "San Marino"
+        "iso2cd": "va",
+        "iso3cd": "VAT",
+        "name": "Holy See (Vatican City State)"
       }
     },
     {
@@ -3426,9 +3461,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "it",
-        "iso3cd": "ITA",
-        "name": "Italy"
+        "iso2cd": "mt",
+        "iso3cd": "MLT",
+        "name": "Malta"
       }
     },
     {
@@ -3461,9 +3496,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "mt",
-        "iso3cd": "MLT",
-        "name": "Malta"
+        "iso2cd": "vi",
+        "iso3cd": "VIR",
+        "name": "Virgin Islands, U.S."
       }
     },
     {
@@ -4021,9 +4056,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "vi",
-        "iso3cd": "VIR",
-        "name": "Virgin Islands, U.S."
+        "iso2cd": "mf",
+        "iso3cd": "MAF",
+        "name": "Saint Martin (French part)"
       }
     },
     {
@@ -5013,6 +5048,41 @@
         "coordinates": [
           [
             [
+              -94.5,
+              -13.376794014850931
+            ],
+            [
+              -94.5,
+              -26.052834951883924
+            ],
+            [
+              -80.99999999999999,
+              -26.052834951883924
+            ],
+            [
+              -80.99999999999999,
+              -13.376794014850931
+            ],
+            [
+              -94.5,
+              -13.376794014850931
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso2cd": "ky",
+        "iso3cd": "CYM",
+        "name": "Cayman Islands"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
               -80.99999999999999,
               -13.376794014850931
             ],
@@ -5561,9 +5631,44 @@
         ]
       },
       "properties": {
-        "iso2cd": "ky",
-        "iso3cd": "CYM",
-        "name": "Cayman Islands"
+        "iso2cd": "aw",
+        "iso3cd": "ABW",
+        "name": "Aruba"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.99999999999999,
+              -26.052834951883924
+            ],
+            [
+              -80.99999999999999,
+              -37.49578069305967
+            ],
+            [
+              -67.5,
+              -37.49578069305967
+            ],
+            [
+              -67.5,
+              -26.052834951883924
+            ],
+            [
+              -80.99999999999999,
+              -26.052834951883924
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso2cd": "cw",
+        "iso3cd": "CUW",
+        "name": "Curaçao"
       }
     },
     {
@@ -6051,9 +6156,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "mf",
-        "iso3cd": "MAF",
-        "name": "Saint Martin (French part)"
+        "iso2cd": "co",
+        "iso3cd": "COL",
+        "name": "Colombia"
       }
     },
     {
@@ -6086,9 +6191,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "aw",
-        "iso3cd": "ABW",
-        "name": "Aruba"
+        "iso2cd": "ve",
+        "iso3cd": "VEN",
+        "name": "Venezuela"
       }
     },
     {
@@ -6121,9 +6226,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "cw",
-        "iso3cd": "CUW",
-        "name": "Curaçao"
+        "iso2cd": "bq",
+        "iso3cd": "BES",
+        "name": "Bonaire, Sint Eustatius and Saba"
       }
     },
     {
@@ -6611,9 +6716,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "co",
-        "iso3cd": "COL",
-        "name": "Colombia"
+        "iso2cd": "ec",
+        "iso3cd": "ECU",
+        "name": "Ecuador"
       }
     },
     {
@@ -6646,9 +6751,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "ve",
-        "iso3cd": "VEN",
-        "name": "Venezuela"
+        "iso2cd": "bo",
+        "iso3cd": "BOL",
+        "name": "Bolivia"
       }
     },
     {
@@ -6681,9 +6786,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "bq",
-        "iso3cd": "BES",
-        "name": "Bonaire, Sint Eustatius and Saba"
+        "iso2cd": "br",
+        "iso3cd": "BRA",
+        "name": "Brazil"
       }
     },
     {
@@ -6719,6 +6824,41 @@
         "iso2cd": "tt",
         "iso3cd": "TTO",
         "name": "Trinidad and Tobago"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.000000000000014,
+              -47.422140992876095
+            ],
+            [
+              -54.000000000000014,
+              -55.776573018667676
+            ],
+            [
+              -40.50000000000003,
+              -55.776573018667676
+            ],
+            [
+              -40.50000000000003,
+              -47.422140992876095
+            ],
+            [
+              -54.000000000000014,
+              -47.422140992876095
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso2cd": "vc",
+        "iso3cd": "VCT",
+        "name": "Saint Vincent and the Grenadines"
       }
     },
     {
@@ -7136,9 +7276,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "ec",
-        "iso3cd": "ECU",
-        "name": "Ecuador"
+        "iso2cd": "pe",
+        "iso3cd": "PER",
+        "name": "Peru"
       }
     },
     {
@@ -7171,9 +7311,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "bo",
-        "iso3cd": "BOL",
-        "name": "Bolivia"
+        "iso2cd": "py",
+        "iso3cd": "PRY",
+        "name": "Paraguay"
       }
     },
     {
@@ -7206,9 +7346,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "br",
-        "iso3cd": "BRA",
-        "name": "Brazil"
+        "iso2cd": "uy",
+        "iso3cd": "URY",
+        "name": "Uruguay"
       }
     },
     {
@@ -7244,6 +7384,41 @@
         "iso2cd": "gy",
         "iso3cd": "GUY",
         "name": "Guyana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -54.000000000000014,
+              -55.776573018667676
+            ],
+            [
+              -54.000000000000014,
+              -62.65800045231941
+            ],
+            [
+              -40.50000000000003,
+              -62.65800045231941
+            ],
+            [
+              -40.50000000000003,
+              -55.776573018667676
+            ],
+            [
+              -54.000000000000014,
+              -55.776573018667676
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "iso2cd": "sr",
+        "iso3cd": "SUR",
+        "name": "Suriname"
       }
     },
     {
@@ -7661,9 +7836,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "pe",
-        "iso3cd": "PER",
-        "name": "Peru"
+        "iso2cd": "cl",
+        "iso3cd": "CHL",
+        "name": "Chile"
       }
     },
     {
@@ -7696,9 +7871,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "py",
-        "iso3cd": "PRY",
-        "name": "Paraguay"
+        "iso2cd": "ar",
+        "iso3cd": "ARG",
+        "name": "Argentina"
       }
     },
     {
@@ -7731,9 +7906,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "uy",
-        "iso3cd": "URY",
-        "name": "Uruguay"
+        "iso2cd": "fk",
+        "iso3cd": "FLK",
+        "name": "Falkland Islands (Malvinas)"
       }
     },
     {
@@ -7766,9 +7941,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "sr",
-        "iso3cd": "SUR",
-        "name": "Suriname"
+        "iso2cd": "gs",
+        "iso3cd": "SGS",
+        "name": "South Georgia and the South Sandwich Islands"
       }
     },
     {
@@ -7801,9 +7976,9 @@
         ]
       },
       "properties": {
-        "iso2cd": "vc",
-        "iso3cd": "VCT",
-        "name": "Saint Vincent and the Grenadines"
+        "iso2cd": "gf",
+        "iso3cd": "GUF",
+        "name": "French Guiana"
       }
     },
     {
@@ -8189,181 +8364,6 @@
         "iso2cd": "ck",
         "iso3cd": "COK",
         "name": "Cook Islands"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -108,
-              -68.24333924065158
-            ],
-            [
-              -108,
-              -72.73278609432641
-            ],
-            [
-              -94.5,
-              -72.73278609432641
-            ],
-            [
-              -94.5,
-              -68.24333924065158
-            ],
-            [
-              -108,
-              -68.24333924065158
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "iso2cd": "cl",
-        "iso3cd": "CHL",
-        "name": "Chile"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -94.5,
-              -68.24333924065158
-            ],
-            [
-              -94.5,
-              -72.73278609432641
-            ],
-            [
-              -80.99999999999999,
-              -72.73278609432641
-            ],
-            [
-              -80.99999999999999,
-              -68.24333924065158
-            ],
-            [
-              -94.5,
-              -68.24333924065158
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "iso2cd": "ar",
-        "iso3cd": "ARG",
-        "name": "Argentina"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -80.99999999999999,
-              -68.24333924065158
-            ],
-            [
-              -80.99999999999999,
-              -72.73278609432641
-            ],
-            [
-              -67.5,
-              -72.73278609432641
-            ],
-            [
-              -67.5,
-              -68.24333924065158
-            ],
-            [
-              -80.99999999999999,
-              -68.24333924065158
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "iso2cd": "fk",
-        "iso3cd": "FLK",
-        "name": "Falkland Islands (Malvinas)"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -67.5,
-              -68.24333924065158
-            ],
-            [
-              -67.5,
-              -72.73278609432641
-            ],
-            [
-              -54.000000000000014,
-              -72.73278609432641
-            ],
-            [
-              -54.000000000000014,
-              -68.24333924065158
-            ],
-            [
-              -67.5,
-              -68.24333924065158
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "iso2cd": "gf",
-        "iso3cd": "GUF",
-        "name": "French Guiana"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -54.000000000000014,
-              -68.24333924065158
-            ],
-            [
-              -54.000000000000014,
-              -72.73278609432641
-            ],
-            [
-              -40.50000000000003,
-              -72.73278609432641
-            ],
-            [
-              -40.50000000000003,
-              -68.24333924065158
-            ],
-            [
-              -54.000000000000014,
-              -68.24333924065158
-            ]
-          ]
-        ]
-      },
-      "properties": {
-        "iso2cd": "gs",
-        "iso3cd": "SGS",
-        "name": "South Georgia and the South Sandwich Islands"
       }
     },
     {
