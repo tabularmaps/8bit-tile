@@ -61,7 +61,7 @@ const addPolygonFeature = (i, j, iso2cd) => {
     properties: {
       iso2cd: iso2cd,
       iso3cd: codes.alpha2ToAlpha3(iso2cd.toUpperCase()),
-      name: codes.getName(iso2cd, 'en')
+      maplab: codes.getName(iso2cd, 'en')
     }
   }
   if (f.properties.name === 'Swaziland') {

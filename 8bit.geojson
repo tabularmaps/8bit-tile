@@ -33,7 +33,7 @@
       "properties": {
         "iso2cd": "gl",
         "iso3cd": "GRL",
-        "name": "Greenland"
+        "maplab": "Greenland"
       }
     },
     {
@@ -68,7 +68,7 @@
       "properties": {
         "iso2cd": "is",
         "iso3cd": "ISL",
-        "name": "Iceland"
+        "maplab": "Iceland"
       }
     },
     {
@@ -103,7 +103,7 @@
       "properties": {
         "iso2cd": "sj",
         "iso3cd": "SJM",
-        "name": "Svalbard and Jan Mayen"
+        "maplab": "Svalbard and Jan Mayen"
       }
     },
     {
@@ -138,7 +138,7 @@
       "properties": {
         "iso2cd": "no",
         "iso3cd": "NOR",
-        "name": "Norway"
+        "maplab": "Norway"
       }
     },
     {
@@ -173,7 +173,7 @@
       "properties": {
         "iso2cd": "se",
         "iso3cd": "SWE",
-        "name": "Sweden"
+        "maplab": "Sweden"
       }
     },
     {
@@ -208,7 +208,7 @@
       "properties": {
         "iso2cd": "ax",
         "iso3cd": "ALA",
-        "name": "Åland Islands"
+        "maplab": "Åland Islands"
       }
     },
     {
@@ -243,7 +243,7 @@
       "properties": {
         "iso2cd": "fi",
         "iso3cd": "FIN",
-        "name": "Finland"
+        "maplab": "Finland"
       }
     },
     {
@@ -278,7 +278,7 @@
       "properties": {
         "iso2cd": "ee",
         "iso3cd": "EST",
-        "name": "Estonia"
+        "maplab": "Estonia"
       }
     },
     {
@@ -313,7 +313,7 @@
       "properties": {
         "iso2cd": "by",
         "iso3cd": "BLR",
-        "name": "Belarus"
+        "maplab": "Belarus"
       }
     },
     {
@@ -348,7 +348,7 @@
       "properties": {
         "iso2cd": "ru",
         "iso3cd": "RUS",
-        "name": "Russian Federation"
+        "maplab": "Russian Federation"
       }
     },
     {
@@ -383,7 +383,7 @@
       "properties": {
         "iso2cd": "ge",
         "iso3cd": "GEO",
-        "name": "Georgia"
+        "maplab": "Georgia"
       }
     },
     {
@@ -418,7 +418,7 @@
       "properties": {
         "iso2cd": "uz",
         "iso3cd": "UZB",
-        "name": "Uzbekistan"
+        "maplab": "Uzbekistan"
       }
     },
     {
@@ -453,7 +453,7 @@
       "properties": {
         "iso2cd": "kg",
         "iso3cd": "KGZ",
-        "name": "Kyrgyzstan"
+        "maplab": "Kyrgyzstan"
       }
     },
     {
@@ -488,7 +488,7 @@
       "properties": {
         "iso2cd": "kz",
         "iso3cd": "KAZ",
-        "name": "Kazakhstan"
+        "maplab": "Kazakhstan"
       }
     },
     {
@@ -523,7 +523,7 @@
       "properties": {
         "iso2cd": "mn",
         "iso3cd": "MNG",
-        "name": "Mongolia"
+        "maplab": "Mongolia"
       }
     },
     {
@@ -558,7 +558,7 @@
       "properties": {
         "iso2cd": "kp",
         "iso3cd": "PRK",
-        "name": "North Korea"
+        "maplab": "North Korea"
       }
     },
     {
@@ -593,7 +593,7 @@
       "properties": {
         "iso2cd": "ca",
         "iso3cd": "CAN",
-        "name": "Canada"
+        "maplab": "Canada"
       }
     },
     {
@@ -628,7 +628,7 @@
       "properties": {
         "iso2cd": "ie",
         "iso3cd": "IRL",
-        "name": "Ireland"
+        "maplab": "Ireland"
       }
     },
     {
@@ -663,7 +663,7 @@
       "properties": {
         "iso2cd": "gg",
         "iso3cd": "GGY",
-        "name": "Guernsey"
+        "maplab": "Guernsey"
       }
     },
     {
@@ -698,7 +698,7 @@
       "properties": {
         "iso2cd": "fo",
         "iso3cd": "FRO",
-        "name": "Faroe Islands"
+        "maplab": "Faroe Islands"
       }
     },
     {
@@ -733,7 +733,7 @@
       "properties": {
         "iso2cd": "dk",
         "iso3cd": "DNK",
-        "name": "Denmark"
+        "maplab": "Denmark"
       }
     },
     {
@@ -768,7 +768,7 @@
       "properties": {
         "iso2cd": "de",
         "iso3cd": "DEU",
-        "name": "Germany"
+        "maplab": "Germany"
       }
     },
     {
@@ -803,7 +803,7 @@
       "properties": {
         "iso2cd": "pl",
         "iso3cd": "POL",
-        "name": "Poland"
+        "maplab": "Poland"
       }
     },
     {
@@ -838,7 +838,7 @@
       "properties": {
         "iso2cd": "lv",
         "iso3cd": "LVA",
-        "name": "Latvia"
+        "maplab": "Latvia"
       }
     },
     {
@@ -873,7 +873,7 @@
       "properties": {
         "iso2cd": "ro",
         "iso3cd": "ROU",
-        "name": "Romania"
+        "maplab": "Romania"
       }
     },
     {
@@ -908,7 +908,7 @@
       "properties": {
         "iso2cd": "ua",
         "iso3cd": "UKR",
-        "name": "Ukraine"
+        "maplab": "Ukraine"
       }
     },
     {
@@ -943,7 +943,7 @@
       "properties": {
         "iso2cd": "am",
         "iso3cd": "ARM",
-        "name": "Armenia"
+        "maplab": "Armenia"
       }
     },
     {
@@ -978,7 +978,7 @@
       "properties": {
         "iso2cd": "tm",
         "iso3cd": "TKM",
-        "name": "Turkmenistan"
+        "maplab": "Turkmenistan"
       }
     },
     {
@@ -1013,7 +1013,7 @@
       "properties": {
         "iso2cd": "tj",
         "iso3cd": "TJK",
-        "name": "Tajikistan"
+        "maplab": "Tajikistan"
       }
     },
     {
@@ -1048,7 +1048,7 @@
       "properties": {
         "iso2cd": "cn",
         "iso3cd": "CHN",
-        "name": "China"
+        "maplab": "China"
       }
     },
     {
@@ -1083,7 +1083,7 @@
       "properties": {
         "iso2cd": "tw",
         "iso3cd": "TWN",
-        "name": "Taiwan"
+        "maplab": "Taiwan"
       }
     },
     {
@@ -1118,7 +1118,7 @@
       "properties": {
         "iso2cd": "kr",
         "iso3cd": "KOR",
-        "name": "South Korea"
+        "maplab": "South Korea"
       }
     },
     {
@@ -1153,7 +1153,7 @@
       "properties": {
         "iso2cd": "pm",
         "iso3cd": "SPM",
-        "name": "Saint Pierre and Miquelon"
+        "maplab": "Saint Pierre and Miquelon"
       }
     },
     {
@@ -1188,7 +1188,7 @@
       "properties": {
         "iso2cd": "im",
         "iso3cd": "IMN",
-        "name": "Isle of Man"
+        "maplab": "Isle of Man"
       }
     },
     {
@@ -1223,7 +1223,7 @@
       "properties": {
         "iso2cd": "nl",
         "iso3cd": "NLD",
-        "name": "Netherlands"
+        "maplab": "Netherlands"
       }
     },
     {
@@ -1258,7 +1258,7 @@
       "properties": {
         "iso2cd": "li",
         "iso3cd": "LIE",
-        "name": "Liechtenstein"
+        "maplab": "Liechtenstein"
       }
     },
     {
@@ -1293,7 +1293,7 @@
       "properties": {
         "iso2cd": "cz",
         "iso3cd": "CZE",
-        "name": "Czech Republic"
+        "maplab": "Czech Republic"
       }
     },
     {
@@ -1328,7 +1328,7 @@
       "properties": {
         "iso2cd": "sk",
         "iso3cd": "SVK",
-        "name": "Slovakia"
+        "maplab": "Slovakia"
       }
     },
     {
@@ -1363,7 +1363,7 @@
       "properties": {
         "iso2cd": "lt",
         "iso3cd": "LTU",
-        "name": "Lithuania"
+        "maplab": "Lithuania"
       }
     },
     {
@@ -1398,7 +1398,7 @@
       "properties": {
         "iso2cd": "bg",
         "iso3cd": "BGR",
-        "name": "Bulgaria"
+        "maplab": "Bulgaria"
       }
     },
     {
@@ -1433,7 +1433,7 @@
       "properties": {
         "iso2cd": "md",
         "iso3cd": "MDA",
-        "name": "Moldova, Republic of"
+        "maplab": "Moldova, Republic of"
       }
     },
     {
@@ -1468,7 +1468,7 @@
       "properties": {
         "iso2cd": "tr",
         "iso3cd": "TUR",
-        "name": "Turkey"
+        "maplab": "Turkey"
       }
     },
     {
@@ -1503,7 +1503,7 @@
       "properties": {
         "iso2cd": "az",
         "iso3cd": "AZE",
-        "name": "Azerbaijan"
+        "maplab": "Azerbaijan"
       }
     },
     {
@@ -1538,7 +1538,7 @@
       "properties": {
         "iso2cd": "bt",
         "iso3cd": "BTN",
-        "name": "Bhutan"
+        "maplab": "Bhutan"
       }
     },
     {
@@ -1573,7 +1573,7 @@
       "properties": {
         "iso2cd": "mo",
         "iso3cd": "MAC",
-        "name": "Macao"
+        "maplab": "Macao"
       }
     },
     {
@@ -1608,7 +1608,7 @@
       "properties": {
         "iso2cd": "hk",
         "iso3cd": "HKG",
-        "name": "Hong Kong"
+        "maplab": "Hong Kong"
       }
     },
     {
@@ -1643,7 +1643,7 @@
       "properties": {
         "iso2cd": "jp",
         "iso3cd": "JPN",
-        "name": "Japan"
+        "maplab": "Japan"
       }
     },
     {
@@ -1678,7 +1678,7 @@
       "properties": {
         "iso2cd": "us",
         "iso3cd": "USA",
-        "name": "United States of America"
+        "maplab": "United States of America"
       }
     },
     {
@@ -1713,7 +1713,7 @@
       "properties": {
         "iso2cd": "gb",
         "iso3cd": "GBR",
-        "name": "United Kingdom"
+        "maplab": "United Kingdom"
       }
     },
     {
@@ -1748,7 +1748,7 @@
       "properties": {
         "iso2cd": "je",
         "iso3cd": "JEY",
-        "name": "Jersey"
+        "maplab": "Jersey"
       }
     },
     {
@@ -1783,7 +1783,7 @@
       "properties": {
         "iso2cd": "be",
         "iso3cd": "BEL",
-        "name": "Belgium"
+        "maplab": "Belgium"
       }
     },
     {
@@ -1818,7 +1818,7 @@
       "properties": {
         "iso2cd": "ch",
         "iso3cd": "CHE",
-        "name": "Switzerland"
+        "maplab": "Switzerland"
       }
     },
     {
@@ -1853,7 +1853,7 @@
       "properties": {
         "iso2cd": "at",
         "iso3cd": "AUT",
-        "name": "Austria"
+        "maplab": "Austria"
       }
     },
     {
@@ -1888,7 +1888,7 @@
       "properties": {
         "iso2cd": "hu",
         "iso3cd": "HUN",
-        "name": "Hungary"
+        "maplab": "Hungary"
       }
     },
     {
@@ -1923,7 +1923,7 @@
       "properties": {
         "iso2cd": "rs",
         "iso3cd": "SRB",
-        "name": "Serbia"
+        "maplab": "Serbia"
       }
     },
     {
@@ -1958,7 +1958,7 @@
       "properties": {
         "iso2cd": "kw",
         "iso3cd": "KWT",
-        "name": "Kuwait"
+        "maplab": "Kuwait"
       }
     },
     {
@@ -1993,7 +1993,7 @@
       "properties": {
         "iso2cd": "iq",
         "iso3cd": "IRQ",
-        "name": "Iraq"
+        "maplab": "Iraq"
       }
     },
     {
@@ -2028,7 +2028,7 @@
       "properties": {
         "iso2cd": "ir",
         "iso3cd": "IRN",
-        "name": "Iran, Islamic Republic of"
+        "maplab": "Iran, Islamic Republic of"
       }
     },
     {
@@ -2063,7 +2063,7 @@
       "properties": {
         "iso2cd": "np",
         "iso3cd": "NPL",
-        "name": "Nepal"
+        "maplab": "Nepal"
       }
     },
     {
@@ -2098,7 +2098,7 @@
       "properties": {
         "iso2cd": "mm",
         "iso3cd": "MMR",
-        "name": "Myanmar"
+        "maplab": "Myanmar"
       }
     },
     {
@@ -2133,7 +2133,7 @@
       "properties": {
         "iso2cd": "la",
         "iso3cd": "LAO",
-        "name": "Lao People's Democratic Republic"
+        "maplab": "Lao People's Democratic Republic"
       }
     },
     {
@@ -2168,7 +2168,7 @@
       "properties": {
         "iso2cd": "vn",
         "iso3cd": "VNM",
-        "name": "Viet Nam"
+        "maplab": "Viet Nam"
       }
     },
     {
@@ -2203,7 +2203,7 @@
       "properties": {
         "iso2cd": "ph",
         "iso3cd": "PHL",
-        "name": "Philippines"
+        "maplab": "Philippines"
       }
     },
     {
@@ -2238,7 +2238,7 @@
       "properties": {
         "iso2cd": "bm",
         "iso3cd": "BMU",
-        "name": "Bermuda"
+        "maplab": "Bermuda"
       }
     },
     {
@@ -2273,7 +2273,7 @@
       "properties": {
         "iso2cd": "fr",
         "iso3cd": "FRA",
-        "name": "France"
+        "maplab": "France"
       }
     },
     {
@@ -2308,7 +2308,7 @@
       "properties": {
         "iso2cd": "mc",
         "iso3cd": "MCO",
-        "name": "Monaco"
+        "maplab": "Monaco"
       }
     },
     {
@@ -2343,7 +2343,7 @@
       "properties": {
         "iso2cd": "lu",
         "iso3cd": "LUX",
-        "name": "Luxembourg"
+        "maplab": "Luxembourg"
       }
     },
     {
@@ -2378,7 +2378,7 @@
       "properties": {
         "iso2cd": "sm",
         "iso3cd": "SMR",
-        "name": "San Marino"
+        "maplab": "San Marino"
       }
     },
     {
@@ -2413,7 +2413,7 @@
       "properties": {
         "iso2cd": "si",
         "iso3cd": "SVN",
-        "name": "Slovenia"
+        "maplab": "Slovenia"
       }
     },
     {
@@ -2448,7 +2448,7 @@
       "properties": {
         "iso2cd": "ba",
         "iso3cd": "BIH",
-        "name": "Bosnia and Herzegovina"
+        "maplab": "Bosnia and Herzegovina"
       }
     },
     {
@@ -2483,7 +2483,7 @@
       "properties": {
         "iso2cd": "xk",
         "iso3cd": "XKX",
-        "name": "Kosovo"
+        "maplab": "Kosovo"
       }
     },
     {
@@ -2518,7 +2518,7 @@
       "properties": {
         "iso2cd": "lb",
         "iso3cd": "LBN",
-        "name": "Lebanon"
+        "maplab": "Lebanon"
       }
     },
     {
@@ -2553,7 +2553,7 @@
       "properties": {
         "iso2cd": "bh",
         "iso3cd": "BHR",
-        "name": "Bahrain"
+        "maplab": "Bahrain"
       }
     },
     {
@@ -2588,7 +2588,7 @@
       "properties": {
         "iso2cd": "qa",
         "iso3cd": "QAT",
-        "name": "Qatar"
+        "maplab": "Qatar"
       }
     },
     {
@@ -2623,7 +2623,7 @@
       "properties": {
         "iso2cd": "af",
         "iso3cd": "AFG",
-        "name": "Afghanistan"
+        "maplab": "Afghanistan"
       }
     },
     {
@@ -2658,7 +2658,7 @@
       "properties": {
         "iso2cd": "th",
         "iso3cd": "THA",
-        "name": "Thailand"
+        "maplab": "Thailand"
       }
     },
     {
@@ -2693,7 +2693,7 @@
       "properties": {
         "iso2cd": "my",
         "iso3cd": "MYS",
-        "name": "Malaysia"
+        "maplab": "Malaysia"
       }
     },
     {
@@ -2728,7 +2728,7 @@
       "properties": {
         "iso2cd": "sg",
         "iso3cd": "SGP",
-        "name": "Singapore"
+        "maplab": "Singapore"
       }
     },
     {
@@ -2763,7 +2763,7 @@
       "properties": {
         "iso2cd": "bn",
         "iso3cd": "BRN",
-        "name": "Brunei Darussalam"
+        "maplab": "Brunei Darussalam"
       }
     },
     {
@@ -2798,7 +2798,7 @@
       "properties": {
         "iso2cd": "mx",
         "iso3cd": "MEX",
-        "name": "Mexico"
+        "maplab": "Mexico"
       }
     },
     {
@@ -2833,7 +2833,7 @@
       "properties": {
         "iso2cd": "pt",
         "iso3cd": "PRT",
-        "name": "Portugal"
+        "maplab": "Portugal"
       }
     },
     {
@@ -2868,7 +2868,7 @@
       "properties": {
         "iso2cd": "ad",
         "iso3cd": "AND",
-        "name": "Andorra"
+        "maplab": "Andorra"
       }
     },
     {
@@ -2903,7 +2903,7 @@
       "properties": {
         "iso2cd": "it",
         "iso3cd": "ITA",
-        "name": "Italy"
+        "maplab": "Italy"
       }
     },
     {
@@ -2938,7 +2938,7 @@
       "properties": {
         "iso2cd": "va",
         "iso3cd": "VAT",
-        "name": "Holy See (Vatican City State)"
+        "maplab": "Holy See (Vatican City State)"
       }
     },
     {
@@ -2973,7 +2973,7 @@
       "properties": {
         "iso2cd": "hr",
         "iso3cd": "HRV",
-        "name": "Croatia"
+        "maplab": "Croatia"
       }
     },
     {
@@ -3008,7 +3008,7 @@
       "properties": {
         "iso2cd": "al",
         "iso3cd": "ALB",
-        "name": "Albania"
+        "maplab": "Albania"
       }
     },
     {
@@ -3043,7 +3043,7 @@
       "properties": {
         "iso2cd": "mk",
         "iso3cd": "MKD",
-        "name": "Macedonia, the Former Yugoslav Republic of"
+        "maplab": "Macedonia, the Former Yugoslav Republic of"
       }
     },
     {
@@ -3078,7 +3078,7 @@
       "properties": {
         "iso2cd": "ps",
         "iso3cd": "PSE",
-        "name": "Palestinian Territory, Occupied"
+        "maplab": "Palestinian Territory, Occupied"
       }
     },
     {
@@ -3113,7 +3113,7 @@
       "properties": {
         "iso2cd": "sy",
         "iso3cd": "SYR",
-        "name": "Syrian Arab Republic"
+        "maplab": "Syrian Arab Republic"
       }
     },
     {
@@ -3148,7 +3148,7 @@
       "properties": {
         "iso2cd": "sa",
         "iso3cd": "SAU",
-        "name": "Saudi Arabia"
+        "maplab": "Saudi Arabia"
       }
     },
     {
@@ -3183,7 +3183,7 @@
       "properties": {
         "iso2cd": "ae",
         "iso3cd": "ARE",
-        "name": "United Arab Emirates"
+        "maplab": "United Arab Emirates"
       }
     },
     {
@@ -3218,7 +3218,7 @@
       "properties": {
         "iso2cd": "pk",
         "iso3cd": "PAK",
-        "name": "Pakistan"
+        "maplab": "Pakistan"
       }
     },
     {
@@ -3253,7 +3253,7 @@
       "properties": {
         "iso2cd": "bd",
         "iso3cd": "BGD",
-        "name": "Bangladesh"
+        "maplab": "Bangladesh"
       }
     },
     {
@@ -3288,7 +3288,7 @@
       "properties": {
         "iso2cd": "kh",
         "iso3cd": "KHM",
-        "name": "Cambodia"
+        "maplab": "Cambodia"
       }
     },
     {
@@ -3323,7 +3323,7 @@
       "properties": {
         "iso2cd": "id",
         "iso3cd": "IDN",
-        "name": "Indonesia"
+        "maplab": "Indonesia"
       }
     },
     {
@@ -3358,7 +3358,7 @@
       "properties": {
         "iso2cd": "gt",
         "iso3cd": "GTM",
-        "name": "Guatemala"
+        "maplab": "Guatemala"
       }
     },
     {
@@ -3393,7 +3393,7 @@
       "properties": {
         "iso2cd": "gi",
         "iso3cd": "GIB",
-        "name": "Gibraltar"
+        "maplab": "Gibraltar"
       }
     },
     {
@@ -3428,7 +3428,7 @@
       "properties": {
         "iso2cd": "es",
         "iso3cd": "ESP",
-        "name": "Spain"
+        "maplab": "Spain"
       }
     },
     {
@@ -3463,7 +3463,7 @@
       "properties": {
         "iso2cd": "mt",
         "iso3cd": "MLT",
-        "name": "Malta"
+        "maplab": "Malta"
       }
     },
     {
@@ -3498,7 +3498,7 @@
       "properties": {
         "iso2cd": "vi",
         "iso3cd": "VIR",
-        "name": "Virgin Islands, U.S."
+        "maplab": "Virgin Islands, U.S."
       }
     },
     {
@@ -3533,7 +3533,7 @@
       "properties": {
         "iso2cd": "me",
         "iso3cd": "MNE",
-        "name": "Montenegro"
+        "maplab": "Montenegro"
       }
     },
     {
@@ -3568,7 +3568,7 @@
       "properties": {
         "iso2cd": "gr",
         "iso3cd": "GRC",
-        "name": "Greece"
+        "maplab": "Greece"
       }
     },
     {
@@ -3603,7 +3603,7 @@
       "properties": {
         "iso2cd": "cy",
         "iso3cd": "CYP",
-        "name": "Cyprus"
+        "maplab": "Cyprus"
       }
     },
     {
@@ -3638,7 +3638,7 @@
       "properties": {
         "iso2cd": "il",
         "iso3cd": "ISR",
-        "name": "Israel"
+        "maplab": "Israel"
       }
     },
     {
@@ -3673,7 +3673,7 @@
       "properties": {
         "iso2cd": "jo",
         "iso3cd": "JOR",
-        "name": "Jordan"
+        "maplab": "Jordan"
       }
     },
     {
@@ -3708,7 +3708,7 @@
       "properties": {
         "iso2cd": "ye",
         "iso3cd": "YEM",
-        "name": "Yemen"
+        "maplab": "Yemen"
       }
     },
     {
@@ -3743,7 +3743,7 @@
       "properties": {
         "iso2cd": "om",
         "iso3cd": "OMN",
-        "name": "Oman"
+        "maplab": "Oman"
       }
     },
     {
@@ -3778,7 +3778,7 @@
       "properties": {
         "iso2cd": "in",
         "iso3cd": "IND",
-        "name": "India"
+        "maplab": "India"
       }
     },
     {
@@ -3813,7 +3813,7 @@
       "properties": {
         "iso2cd": "lk",
         "iso3cd": "LKA",
-        "name": "Sri Lanka"
+        "maplab": "Sri Lanka"
       }
     },
     {
@@ -3848,7 +3848,7 @@
       "properties": {
         "iso2cd": "cc",
         "iso3cd": "CCK",
-        "name": "Cocos (Keeling) Islands"
+        "maplab": "Cocos (Keeling) Islands"
       }
     },
     {
@@ -3883,7 +3883,7 @@
       "properties": {
         "iso2cd": "um",
         "iso3cd": "UMI",
-        "name": "United States Minor Outlying Islands"
+        "maplab": "United States Minor Outlying Islands"
       }
     },
     {
@@ -3918,7 +3918,7 @@
       "properties": {
         "iso2cd": "sv",
         "iso3cd": "SLV",
-        "name": "El Salvador"
+        "maplab": "El Salvador"
       }
     },
     {
@@ -3953,7 +3953,7 @@
       "properties": {
         "iso2cd": "bz",
         "iso3cd": "BLZ",
-        "name": "Belize"
+        "maplab": "Belize"
       }
     },
     {
@@ -3988,7 +3988,7 @@
       "properties": {
         "iso2cd": "cu",
         "iso3cd": "CUB",
-        "name": "Cuba"
+        "maplab": "Cuba"
       }
     },
     {
@@ -4023,7 +4023,7 @@
       "properties": {
         "iso2cd": "pr",
         "iso3cd": "PRI",
-        "name": "Puerto Rico"
+        "maplab": "Puerto Rico"
       }
     },
     {
@@ -4058,7 +4058,7 @@
       "properties": {
         "iso2cd": "mf",
         "iso3cd": "MAF",
-        "name": "Saint Martin (French part)"
+        "maplab": "Saint Martin (French part)"
       }
     },
     {
@@ -4093,7 +4093,7 @@
       "properties": {
         "iso2cd": "sx",
         "iso3cd": "SXM",
-        "name": "Sint Maarten (Dutch part)"
+        "maplab": "Sint Maarten (Dutch part)"
       }
     },
     {
@@ -4128,7 +4128,7 @@
       "properties": {
         "iso2cd": "eh",
         "iso3cd": "ESH",
-        "name": "Western Sahara"
+        "maplab": "Western Sahara"
       }
     },
     {
@@ -4163,7 +4163,7 @@
       "properties": {
         "iso2cd": "ma",
         "iso3cd": "MAR",
-        "name": "Morocco"
+        "maplab": "Morocco"
       }
     },
     {
@@ -4198,7 +4198,7 @@
       "properties": {
         "iso2cd": "dz",
         "iso3cd": "DZA",
-        "name": "Algeria"
+        "maplab": "Algeria"
       }
     },
     {
@@ -4233,7 +4233,7 @@
       "properties": {
         "iso2cd": "tn",
         "iso3cd": "TUN",
-        "name": "Tunisia"
+        "maplab": "Tunisia"
       }
     },
     {
@@ -4268,7 +4268,7 @@
       "properties": {
         "iso2cd": "ly",
         "iso3cd": "LBY",
-        "name": "Libya"
+        "maplab": "Libya"
       }
     },
     {
@@ -4303,7 +4303,7 @@
       "properties": {
         "iso2cd": "sd",
         "iso3cd": "SDN",
-        "name": "Sudan"
+        "maplab": "Sudan"
       }
     },
     {
@@ -4338,7 +4338,7 @@
       "properties": {
         "iso2cd": "eg",
         "iso3cd": "EGY",
-        "name": "Egypt"
+        "maplab": "Egypt"
       }
     },
     {
@@ -4373,7 +4373,7 @@
       "properties": {
         "iso2cd": "cx",
         "iso3cd": "CXR",
-        "name": "Christmas Island"
+        "maplab": "Christmas Island"
       }
     },
     {
@@ -4408,7 +4408,7 @@
       "properties": {
         "iso2cd": "tl",
         "iso3cd": "TLS",
-        "name": "Timor-Leste"
+        "maplab": "Timor-Leste"
       }
     },
     {
@@ -4443,7 +4443,7 @@
       "properties": {
         "iso2cd": "tk",
         "iso3cd": "TKL",
-        "name": "Tokelau"
+        "maplab": "Tokelau"
       }
     },
     {
@@ -4478,7 +4478,7 @@
       "properties": {
         "iso2cd": "ni",
         "iso3cd": "NIC",
-        "name": "Nicaragua"
+        "maplab": "Nicaragua"
       }
     },
     {
@@ -4513,7 +4513,7 @@
       "properties": {
         "iso2cd": "hn",
         "iso3cd": "HND",
-        "name": "Honduras"
+        "maplab": "Honduras"
       }
     },
     {
@@ -4548,7 +4548,7 @@
       "properties": {
         "iso2cd": "tc",
         "iso3cd": "TCA",
-        "name": "Turks and Caicos Islands"
+        "maplab": "Turks and Caicos Islands"
       }
     },
     {
@@ -4583,7 +4583,7 @@
       "properties": {
         "iso2cd": "bs",
         "iso3cd": "BHS",
-        "name": "Bahamas"
+        "maplab": "Bahamas"
       }
     },
     {
@@ -4618,7 +4618,7 @@
       "properties": {
         "iso2cd": "vg",
         "iso3cd": "VGB",
-        "name": "Virgin Islands, British"
+        "maplab": "Virgin Islands, British"
       }
     },
     {
@@ -4653,7 +4653,7 @@
       "properties": {
         "iso2cd": "ms",
         "iso3cd": "MSR",
-        "name": "Montserrat"
+        "maplab": "Montserrat"
       }
     },
     {
@@ -4688,7 +4688,7 @@
       "properties": {
         "iso2cd": "mr",
         "iso3cd": "MRT",
-        "name": "Mauritania"
+        "maplab": "Mauritania"
       }
     },
     {
@@ -4723,7 +4723,7 @@
       "properties": {
         "iso2cd": "ml",
         "iso3cd": "MLI",
-        "name": "Mali"
+        "maplab": "Mali"
       }
     },
     {
@@ -4758,7 +4758,7 @@
       "properties": {
         "iso2cd": "ne",
         "iso3cd": "NER",
-        "name": "Niger"
+        "maplab": "Niger"
       }
     },
     {
@@ -4793,7 +4793,7 @@
       "properties": {
         "iso2cd": "er",
         "iso3cd": "ERI",
-        "name": "Eritrea"
+        "maplab": "Eritrea"
       }
     },
     {
@@ -4828,7 +4828,7 @@
       "properties": {
         "iso2cd": "dj",
         "iso3cd": "DJI",
-        "name": "Djibouti"
+        "maplab": "Djibouti"
       }
     },
     {
@@ -4863,7 +4863,7 @@
       "properties": {
         "iso2cd": "ss",
         "iso3cd": "SSD",
-        "name": "South Sudan"
+        "maplab": "South Sudan"
       }
     },
     {
@@ -4898,7 +4898,7 @@
       "properties": {
         "iso2cd": "so",
         "iso3cd": "SOM",
-        "name": "Somalia"
+        "maplab": "Somalia"
       }
     },
     {
@@ -4933,7 +4933,7 @@
       "properties": {
         "iso2cd": "gu",
         "iso3cd": "GUM",
-        "name": "Guam"
+        "maplab": "Guam"
       }
     },
     {
@@ -4968,7 +4968,7 @@
       "properties": {
         "iso2cd": "mp",
         "iso3cd": "MNP",
-        "name": "Northern Mariana Islands"
+        "maplab": "Northern Mariana Islands"
       }
     },
     {
@@ -5003,7 +5003,7 @@
       "properties": {
         "iso2cd": "ws",
         "iso3cd": "WSM",
-        "name": "Samoa"
+        "maplab": "Samoa"
       }
     },
     {
@@ -5038,7 +5038,7 @@
       "properties": {
         "iso2cd": "cr",
         "iso3cd": "CRI",
-        "name": "Costa Rica"
+        "maplab": "Costa Rica"
       }
     },
     {
@@ -5073,7 +5073,7 @@
       "properties": {
         "iso2cd": "ky",
         "iso3cd": "CYM",
-        "name": "Cayman Islands"
+        "maplab": "Cayman Islands"
       }
     },
     {
@@ -5108,7 +5108,7 @@
       "properties": {
         "iso2cd": "jm",
         "iso3cd": "JAM",
-        "name": "Jamaica"
+        "maplab": "Jamaica"
       }
     },
     {
@@ -5143,7 +5143,7 @@
       "properties": {
         "iso2cd": "ht",
         "iso3cd": "HTI",
-        "name": "Haiti"
+        "maplab": "Haiti"
       }
     },
     {
@@ -5178,7 +5178,7 @@
       "properties": {
         "iso2cd": "ag",
         "iso3cd": "ATG",
-        "name": "Antigua and Barbuda"
+        "maplab": "Antigua and Barbuda"
       }
     },
     {
@@ -5213,7 +5213,7 @@
       "properties": {
         "iso2cd": "gp",
         "iso3cd": "GLP",
-        "name": "Guadeloupe"
+        "maplab": "Guadeloupe"
       }
     },
     {
@@ -5248,7 +5248,7 @@
       "properties": {
         "iso2cd": "sh",
         "iso3cd": "SHN",
-        "name": "Saint Helena"
+        "maplab": "Saint Helena"
       }
     },
     {
@@ -5283,7 +5283,7 @@
       "properties": {
         "iso2cd": "gn",
         "iso3cd": "GIN",
-        "name": "Guinea"
+        "maplab": "Guinea"
       }
     },
     {
@@ -5318,7 +5318,7 @@
       "properties": {
         "iso2cd": "bf",
         "iso3cd": "BFA",
-        "name": "Burkina Faso"
+        "maplab": "Burkina Faso"
       }
     },
     {
@@ -5353,7 +5353,7 @@
       "properties": {
         "iso2cd": "tg",
         "iso3cd": "TGO",
-        "name": "Togo"
+        "maplab": "Togo"
       }
     },
     {
@@ -5388,7 +5388,7 @@
       "properties": {
         "iso2cd": "ke",
         "iso3cd": "KEN",
-        "name": "Kenya"
+        "maplab": "Kenya"
       }
     },
     {
@@ -5423,7 +5423,7 @@
       "properties": {
         "iso2cd": "et",
         "iso3cd": "ETH",
-        "name": "Ethiopia"
+        "maplab": "Ethiopia"
       }
     },
     {
@@ -5458,7 +5458,7 @@
       "properties": {
         "iso2cd": "mv",
         "iso3cd": "MDV",
-        "name": "Maldives"
+        "maplab": "Maldives"
       }
     },
     {
@@ -5493,7 +5493,7 @@
       "properties": {
         "iso2cd": "pw",
         "iso3cd": "PLW",
-        "name": "Palau"
+        "maplab": "Palau"
       }
     },
     {
@@ -5528,7 +5528,7 @@
       "properties": {
         "iso2cd": "fm",
         "iso3cd": "FSM",
-        "name": "Micronesia, Federated States of"
+        "maplab": "Micronesia, Federated States of"
       }
     },
     {
@@ -5563,7 +5563,7 @@
       "properties": {
         "iso2cd": "as",
         "iso3cd": "ASM",
-        "name": "American Samoa"
+        "maplab": "American Samoa"
       }
     },
     {
@@ -5598,7 +5598,7 @@
       "properties": {
         "iso2cd": "pa",
         "iso3cd": "PAN",
-        "name": "Panama"
+        "maplab": "Panama"
       }
     },
     {
@@ -5633,7 +5633,7 @@
       "properties": {
         "iso2cd": "aw",
         "iso3cd": "ABW",
-        "name": "Aruba"
+        "maplab": "Aruba"
       }
     },
     {
@@ -5668,7 +5668,7 @@
       "properties": {
         "iso2cd": "cw",
         "iso3cd": "CUW",
-        "name": "Curaçao"
+        "maplab": "Curaçao"
       }
     },
     {
@@ -5703,7 +5703,7 @@
       "properties": {
         "iso2cd": "do",
         "iso3cd": "DOM",
-        "name": "Dominican Republic"
+        "maplab": "Dominican Republic"
       }
     },
     {
@@ -5738,7 +5738,7 @@
       "properties": {
         "iso2cd": "kn",
         "iso3cd": "KNA",
-        "name": "Saint Kitts and Nevis"
+        "maplab": "Saint Kitts and Nevis"
       }
     },
     {
@@ -5773,7 +5773,7 @@
       "properties": {
         "iso2cd": "dm",
         "iso3cd": "DMA",
-        "name": "Dominica"
+        "maplab": "Dominica"
       }
     },
     {
@@ -5808,7 +5808,7 @@
       "properties": {
         "iso2cd": "cv",
         "iso3cd": "CPV",
-        "name": "Cape Verde"
+        "maplab": "Cape Verde"
       }
     },
     {
@@ -5843,7 +5843,7 @@
       "properties": {
         "iso2cd": "sl",
         "iso3cd": "SLE",
-        "name": "Sierra Leone"
+        "maplab": "Sierra Leone"
       }
     },
     {
@@ -5878,7 +5878,7 @@
       "properties": {
         "iso2cd": "gh",
         "iso3cd": "GHA",
-        "name": "Ghana"
+        "maplab": "Ghana"
       }
     },
     {
@@ -5913,7 +5913,7 @@
       "properties": {
         "iso2cd": "bj",
         "iso3cd": "BEN",
-        "name": "Benin"
+        "maplab": "Benin"
       }
     },
     {
@@ -5948,7 +5948,7 @@
       "properties": {
         "iso2cd": "ug",
         "iso3cd": "UGA",
-        "name": "Uganda"
+        "maplab": "Uganda"
       }
     },
     {
@@ -5983,7 +5983,7 @@
       "properties": {
         "iso2cd": "sc",
         "iso3cd": "SYC",
-        "name": "Seychelles"
+        "maplab": "Seychelles"
       }
     },
     {
@@ -6018,7 +6018,7 @@
       "properties": {
         "iso2cd": "io",
         "iso3cd": "IOT",
-        "name": "British Indian Ocean Territory"
+        "maplab": "British Indian Ocean Territory"
       }
     },
     {
@@ -6053,7 +6053,7 @@
       "properties": {
         "iso2cd": "tv",
         "iso3cd": "TUV",
-        "name": "Tuvalu"
+        "maplab": "Tuvalu"
       }
     },
     {
@@ -6088,7 +6088,7 @@
       "properties": {
         "iso2cd": "mh",
         "iso3cd": "MHL",
-        "name": "Marshall Islands"
+        "maplab": "Marshall Islands"
       }
     },
     {
@@ -6123,7 +6123,7 @@
       "properties": {
         "iso2cd": "nu",
         "iso3cd": "NIU",
-        "name": "Niue"
+        "maplab": "Niue"
       }
     },
     {
@@ -6158,7 +6158,7 @@
       "properties": {
         "iso2cd": "co",
         "iso3cd": "COL",
-        "name": "Colombia"
+        "maplab": "Colombia"
       }
     },
     {
@@ -6193,7 +6193,7 @@
       "properties": {
         "iso2cd": "ve",
         "iso3cd": "VEN",
-        "name": "Venezuela"
+        "maplab": "Venezuela"
       }
     },
     {
@@ -6228,7 +6228,7 @@
       "properties": {
         "iso2cd": "bq",
         "iso3cd": "BES",
-        "name": "Bonaire, Sint Eustatius and Saba"
+        "maplab": "Bonaire, Sint Eustatius and Saba"
       }
     },
     {
@@ -6263,7 +6263,7 @@
       "properties": {
         "iso2cd": "ai",
         "iso3cd": "AIA",
-        "name": "Anguilla"
+        "maplab": "Anguilla"
       }
     },
     {
@@ -6298,7 +6298,7 @@
       "properties": {
         "iso2cd": "bl",
         "iso3cd": "BLM",
-        "name": "Saint Barthélemy"
+        "maplab": "Saint Barthélemy"
       }
     },
     {
@@ -6333,7 +6333,7 @@
       "properties": {
         "iso2cd": "mq",
         "iso3cd": "MTQ",
-        "name": "Martinique"
+        "maplab": "Martinique"
       }
     },
     {
@@ -6368,7 +6368,7 @@
       "properties": {
         "iso2cd": "sn",
         "iso3cd": "SEN",
-        "name": "Senegal"
+        "maplab": "Senegal"
       }
     },
     {
@@ -6403,7 +6403,7 @@
       "properties": {
         "iso2cd": "lr",
         "iso3cd": "LBR",
-        "name": "Liberia"
+        "maplab": "Liberia"
       }
     },
     {
@@ -6438,7 +6438,7 @@
       "properties": {
         "iso2cd": "ng",
         "iso3cd": "NGA",
-        "name": "Nigeria"
+        "maplab": "Nigeria"
       }
     },
     {
@@ -6473,7 +6473,7 @@
       "properties": {
         "iso2cd": "td",
         "iso3cd": "TCD",
-        "name": "Chad"
+        "maplab": "Chad"
       }
     },
     {
@@ -6508,7 +6508,7 @@
       "properties": {
         "iso2cd": "rw",
         "iso3cd": "RWA",
-        "name": "Rwanda"
+        "maplab": "Rwanda"
       }
     },
     {
@@ -6543,7 +6543,7 @@
       "properties": {
         "iso2cd": "mu",
         "iso3cd": "MUS",
-        "name": "Mauritius"
+        "maplab": "Mauritius"
       }
     },
     {
@@ -6578,7 +6578,7 @@
       "properties": {
         "iso2cd": "re",
         "iso3cd": "REU",
-        "name": "Reunion"
+        "maplab": "Reunion"
       }
     },
     {
@@ -6613,7 +6613,7 @@
       "properties": {
         "iso2cd": "wf",
         "iso3cd": "WLF",
-        "name": "Wallis and Futuna"
+        "maplab": "Wallis and Futuna"
       }
     },
     {
@@ -6648,7 +6648,7 @@
       "properties": {
         "iso2cd": "nr",
         "iso3cd": "NRU",
-        "name": "Nauru"
+        "maplab": "Nauru"
       }
     },
     {
@@ -6683,7 +6683,7 @@
       "properties": {
         "iso2cd": "to",
         "iso3cd": "TON",
-        "name": "Tonga"
+        "maplab": "Tonga"
       }
     },
     {
@@ -6718,7 +6718,7 @@
       "properties": {
         "iso2cd": "ec",
         "iso3cd": "ECU",
-        "name": "Ecuador"
+        "maplab": "Ecuador"
       }
     },
     {
@@ -6753,7 +6753,7 @@
       "properties": {
         "iso2cd": "bo",
         "iso3cd": "BOL",
-        "name": "Bolivia"
+        "maplab": "Bolivia"
       }
     },
     {
@@ -6788,7 +6788,7 @@
       "properties": {
         "iso2cd": "br",
         "iso3cd": "BRA",
-        "name": "Brazil"
+        "maplab": "Brazil"
       }
     },
     {
@@ -6823,7 +6823,7 @@
       "properties": {
         "iso2cd": "tt",
         "iso3cd": "TTO",
-        "name": "Trinidad and Tobago"
+        "maplab": "Trinidad and Tobago"
       }
     },
     {
@@ -6858,7 +6858,7 @@
       "properties": {
         "iso2cd": "vc",
         "iso3cd": "VCT",
-        "name": "Saint Vincent and the Grenadines"
+        "maplab": "Saint Vincent and the Grenadines"
       }
     },
     {
@@ -6893,7 +6893,7 @@
       "properties": {
         "iso2cd": "lc",
         "iso3cd": "LCA",
-        "name": "Saint Lucia"
+        "maplab": "Saint Lucia"
       }
     },
     {
@@ -6928,7 +6928,7 @@
       "properties": {
         "iso2cd": "gm",
         "iso3cd": "GMB",
-        "name": "Gambia"
+        "maplab": "Gambia"
       }
     },
     {
@@ -6963,7 +6963,7 @@
       "properties": {
         "iso2cd": "ci",
         "iso3cd": "CIV",
-        "name": "Cote D'Ivoire"
+        "maplab": "Cote D'Ivoire"
       }
     },
     {
@@ -6998,7 +6998,7 @@
       "properties": {
         "iso2cd": "cm",
         "iso3cd": "CMR",
-        "name": "Cameroon"
+        "maplab": "Cameroon"
       }
     },
     {
@@ -7033,7 +7033,7 @@
       "properties": {
         "iso2cd": "cf",
         "iso3cd": "CAF",
-        "name": "Central African Republic"
+        "maplab": "Central African Republic"
       }
     },
     {
@@ -7068,7 +7068,7 @@
       "properties": {
         "iso2cd": "bi",
         "iso3cd": "BDI",
-        "name": "Burundi"
+        "maplab": "Burundi"
       }
     },
     {
@@ -7103,7 +7103,7 @@
       "properties": {
         "iso2cd": "km",
         "iso3cd": "COM",
-        "name": "Comoros"
+        "maplab": "Comoros"
       }
     },
     {
@@ -7138,7 +7138,7 @@
       "properties": {
         "iso2cd": "mg",
         "iso3cd": "MDG",
-        "name": "Madagascar"
+        "maplab": "Madagascar"
       }
     },
     {
@@ -7173,7 +7173,7 @@
       "properties": {
         "iso2cd": "pg",
         "iso3cd": "PNG",
-        "name": "Papua New Guinea"
+        "maplab": "Papua New Guinea"
       }
     },
     {
@@ -7208,7 +7208,7 @@
       "properties": {
         "iso2cd": "ki",
         "iso3cd": "KIR",
-        "name": "Kiribati"
+        "maplab": "Kiribati"
       }
     },
     {
@@ -7243,7 +7243,7 @@
       "properties": {
         "iso2cd": "sb",
         "iso3cd": "SLB",
-        "name": "Solomon Islands"
+        "maplab": "Solomon Islands"
       }
     },
     {
@@ -7278,7 +7278,7 @@
       "properties": {
         "iso2cd": "pe",
         "iso3cd": "PER",
-        "name": "Peru"
+        "maplab": "Peru"
       }
     },
     {
@@ -7313,7 +7313,7 @@
       "properties": {
         "iso2cd": "py",
         "iso3cd": "PRY",
-        "name": "Paraguay"
+        "maplab": "Paraguay"
       }
     },
     {
@@ -7348,7 +7348,7 @@
       "properties": {
         "iso2cd": "uy",
         "iso3cd": "URY",
-        "name": "Uruguay"
+        "maplab": "Uruguay"
       }
     },
     {
@@ -7383,7 +7383,7 @@
       "properties": {
         "iso2cd": "gy",
         "iso3cd": "GUY",
-        "name": "Guyana"
+        "maplab": "Guyana"
       }
     },
     {
@@ -7418,7 +7418,7 @@
       "properties": {
         "iso2cd": "sr",
         "iso3cd": "SUR",
-        "name": "Suriname"
+        "maplab": "Suriname"
       }
     },
     {
@@ -7453,7 +7453,7 @@
       "properties": {
         "iso2cd": "bb",
         "iso3cd": "BRB",
-        "name": "Barbados"
+        "maplab": "Barbados"
       }
     },
     {
@@ -7488,7 +7488,7 @@
       "properties": {
         "iso2cd": "gw",
         "iso3cd": "GNB",
-        "name": "Guinea-Bissau"
+        "maplab": "Guinea-Bissau"
       }
     },
     {
@@ -7523,7 +7523,7 @@
       "properties": {
         "iso2cd": "gq",
         "iso3cd": "GNQ",
-        "name": "Equatorial Guinea"
+        "maplab": "Equatorial Guinea"
       }
     },
     {
@@ -7558,7 +7558,7 @@
       "properties": {
         "iso2cd": "ga",
         "iso3cd": "GAB",
-        "name": "Gabon"
+        "maplab": "Gabon"
       }
     },
     {
@@ -7593,7 +7593,7 @@
       "properties": {
         "iso2cd": "cd",
         "iso3cd": "COD",
-        "name": "Congo, the Democratic Republic of the"
+        "maplab": "Congo, the Democratic Republic of the"
       }
     },
     {
@@ -7628,7 +7628,7 @@
       "properties": {
         "iso2cd": "mw",
         "iso3cd": "MWI",
-        "name": "Malawi"
+        "maplab": "Malawi"
       }
     },
     {
@@ -7663,7 +7663,7 @@
       "properties": {
         "iso2cd": "yt",
         "iso3cd": "MYT",
-        "name": "Mayotte"
+        "maplab": "Mayotte"
       }
     },
     {
@@ -7698,7 +7698,7 @@
       "properties": {
         "iso2cd": "au",
         "iso3cd": "AUS",
-        "name": "Australia"
+        "maplab": "Australia"
       }
     },
     {
@@ -7733,7 +7733,7 @@
       "properties": {
         "iso2cd": "nf",
         "iso3cd": "NFK",
-        "name": "Norfolk Island"
+        "maplab": "Norfolk Island"
       }
     },
     {
@@ -7768,7 +7768,7 @@
       "properties": {
         "iso2cd": "vu",
         "iso3cd": "VUT",
-        "name": "Vanuatu"
+        "maplab": "Vanuatu"
       }
     },
     {
@@ -7803,7 +7803,7 @@
       "properties": {
         "iso2cd": "pf",
         "iso3cd": "PYF",
-        "name": "French Polynesia"
+        "maplab": "French Polynesia"
       }
     },
     {
@@ -7838,7 +7838,7 @@
       "properties": {
         "iso2cd": "cl",
         "iso3cd": "CHL",
-        "name": "Chile"
+        "maplab": "Chile"
       }
     },
     {
@@ -7873,7 +7873,7 @@
       "properties": {
         "iso2cd": "ar",
         "iso3cd": "ARG",
-        "name": "Argentina"
+        "maplab": "Argentina"
       }
     },
     {
@@ -7908,7 +7908,7 @@
       "properties": {
         "iso2cd": "fk",
         "iso3cd": "FLK",
-        "name": "Falkland Islands (Malvinas)"
+        "maplab": "Falkland Islands (Malvinas)"
       }
     },
     {
@@ -7943,7 +7943,7 @@
       "properties": {
         "iso2cd": "gs",
         "iso3cd": "SGS",
-        "name": "South Georgia and the South Sandwich Islands"
+        "maplab": "South Georgia and the South Sandwich Islands"
       }
     },
     {
@@ -7978,7 +7978,7 @@
       "properties": {
         "iso2cd": "gf",
         "iso3cd": "GUF",
-        "name": "French Guiana"
+        "maplab": "French Guiana"
       }
     },
     {
@@ -8013,7 +8013,7 @@
       "properties": {
         "iso2cd": "gd",
         "iso3cd": "GRD",
-        "name": "Grenada"
+        "maplab": "Grenada"
       }
     },
     {
@@ -8048,7 +8048,7 @@
       "properties": {
         "iso2cd": "bw",
         "iso3cd": "BWA",
-        "name": "Botswana"
+        "maplab": "Botswana"
       }
     },
     {
@@ -8083,7 +8083,7 @@
       "properties": {
         "iso2cd": "st",
         "iso3cd": "STP",
-        "name": "Sao Tome and Principe"
+        "maplab": "Sao Tome and Principe"
       }
     },
     {
@@ -8118,7 +8118,7 @@
       "properties": {
         "iso2cd": "cg",
         "iso3cd": "COG",
-        "name": "Congo"
+        "maplab": "Congo"
       }
     },
     {
@@ -8153,7 +8153,7 @@
       "properties": {
         "iso2cd": "ao",
         "iso3cd": "AGO",
-        "name": "Angola"
+        "maplab": "Angola"
       }
     },
     {
@@ -8188,7 +8188,7 @@
       "properties": {
         "iso2cd": "zm",
         "iso3cd": "ZMB",
-        "name": "Zambia"
+        "maplab": "Zambia"
       }
     },
     {
@@ -8223,7 +8223,7 @@
       "properties": {
         "iso2cd": "tz",
         "iso3cd": "TZA",
-        "name": "Tanzania, United Republic of"
+        "maplab": "Tanzania, United Republic of"
       }
     },
     {
@@ -8258,7 +8258,7 @@
       "properties": {
         "iso2cd": "hm",
         "iso3cd": "HMD",
-        "name": "Heard Island and Mcdonald Islands"
+        "maplab": "Heard Island and Mcdonald Islands"
       }
     },
     {
@@ -8293,7 +8293,7 @@
       "properties": {
         "iso2cd": "nz",
         "iso3cd": "NZL",
-        "name": "New Zealand"
+        "maplab": "New Zealand"
       }
     },
     {
@@ -8328,7 +8328,7 @@
       "properties": {
         "iso2cd": "fj",
         "iso3cd": "FJI",
-        "name": "Fiji"
+        "maplab": "Fiji"
       }
     },
     {
@@ -8363,7 +8363,7 @@
       "properties": {
         "iso2cd": "ck",
         "iso3cd": "COK",
-        "name": "Cook Islands"
+        "maplab": "Cook Islands"
       }
     },
     {
@@ -8398,7 +8398,7 @@
       "properties": {
         "iso2cd": "na",
         "iso3cd": "NAM",
-        "name": "Namibia"
+        "maplab": "Namibia"
       }
     },
     {
@@ -8433,7 +8433,7 @@
       "properties": {
         "iso2cd": "za",
         "iso3cd": "ZAF",
-        "name": "South Africa"
+        "maplab": "South Africa"
       }
     },
     {
@@ -8468,7 +8468,7 @@
       "properties": {
         "iso2cd": "ls",
         "iso3cd": "LSO",
-        "name": "Lesotho"
+        "maplab": "Lesotho"
       }
     },
     {
@@ -8503,7 +8503,7 @@
       "properties": {
         "iso2cd": "sz",
         "iso3cd": "SWZ",
-        "name": "Eswatini"
+        "maplab": "Swaziland"
       }
     },
     {
@@ -8538,7 +8538,7 @@
       "properties": {
         "iso2cd": "zw",
         "iso3cd": "ZWE",
-        "name": "Zimbabwe"
+        "maplab": "Zimbabwe"
       }
     },
     {
@@ -8573,7 +8573,7 @@
       "properties": {
         "iso2cd": "mz",
         "iso3cd": "MOZ",
-        "name": "Mozambique"
+        "maplab": "Mozambique"
       }
     },
     {
@@ -8608,7 +8608,7 @@
       "properties": {
         "iso2cd": "bv",
         "iso3cd": "BVT",
-        "name": "Bouvet Island"
+        "maplab": "Bouvet Island"
       }
     },
     {
@@ -8643,7 +8643,7 @@
       "properties": {
         "iso2cd": "aq",
         "iso3cd": "ATA",
-        "name": "Antarctica"
+        "maplab": "Antarctica"
       }
     },
     {
@@ -8678,7 +8678,7 @@
       "properties": {
         "iso2cd": "tf",
         "iso3cd": "ATF",
-        "name": "French Southern Territories"
+        "maplab": "French Southern Territories"
       }
     },
     {
@@ -8713,7 +8713,7 @@
       "properties": {
         "iso2cd": "nc",
         "iso3cd": "NCL",
-        "name": "New Caledonia"
+        "maplab": "New Caledonia"
       }
     },
     {
@@ -8748,7 +8748,7 @@
       "properties": {
         "iso2cd": "pn",
         "iso3cd": "PCN",
-        "name": "Pitcairn"
+        "maplab": "Pitcairn"
       }
     }
   ]

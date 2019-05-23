@@ -9,7 +9,7 @@ I wanted to create a vector tile data for `8bit`.
 - Layer name is `bnda`.
 - Each feature has a property named `iso3cd` that contains CAPITALIZED ISO-3166-1 3-character code.
 - Each feature has a property named `iso2cd` that contains downcase ISO-3166-1 2-character code.
-- Each feature has a property named `name` that contains the name.
+- Each feature has a property named `maplab` that contains the name.
 
 # install
 ```console
