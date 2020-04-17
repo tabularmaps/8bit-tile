@@ -1,5 +1,5 @@
 {
-  glyphs: https://vectortiles.xyz/fonts/{fontstack}/{range}.pbf
+  glyphs: https://maps.gsi.go.jp/xyz/noto-jp/{fontstack}/{range}.pbf
   layers:
   [
     {
